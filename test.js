@@ -1,5 +1,5 @@
 function testRebaseWithError() {
-    console.log('Error1');
-    console.log('Error2');
-    console.log('Error3');
+    console.log('work1');
+    console.log('work2');
+    console.log('work3');
 }
