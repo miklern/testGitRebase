@@ -1,3 +1,3 @@
 function testRebaseWithError() {
-    console.log('Error');
+    console.log('Error1');
 }
